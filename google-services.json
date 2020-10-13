@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "62947773127",
+    "firebase_url": "https://ocms-426d0.firebaseio.com",
+    "project_id": "ocms-426d0",
+    "storage_bucket": "ocms-426d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62947773127:android:a0b9a6a125668bd8628ce2",
+        "android_client_info": {
+          "package_name": "com.example.ocms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62947773127-nggcg93e7a6avkf50g8t39sgrp1e47m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCDciJEphTC4w81kI7jSurR0RKEX5f2LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62947773127-nggcg93e7a6avkf50g8t39sgrp1e47m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62947773127:android:8c258ba7f47aefdf628ce2",
+        "android_client_info": {
+          "package_name": "com.example.onlinecoursemanagment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62947773127-nggcg93e7a6avkf50g8t39sgrp1e47m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCDciJEphTC4w81kI7jSurR0RKEX5f2LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62947773127-nggcg93e7a6avkf50g8t39sgrp1e47m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
